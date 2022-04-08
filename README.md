@@ -1,7 +1,7 @@
         
  <p align="center">
  <img width="100px" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1649398732~exp=1649399332~hmac=4fde30019d78cd8d05460bf1034a36f4a84c923f021b167e56c95d820ed5939d" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Hi , I'm Pankaj Sajekar</h2>
+ <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pankaj Sajekar</h2>
  <p align="center">I'm a passionate Python/Django Developer from India.</p>
  <h3 align="center"><hr>To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.<hr></h3>
 </p>
@@ -30,8 +30,6 @@
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a href="" target="_blank" > <img src="https://img.icons8.com/nolan/48/mysql.png"/> </a>
     <a href="" target="_blank" ><img src="https://img.icons8.com/glyph-neue/48/000000/github.png"/> </a>
-    <a href="" target="_blank" > </a>
-  
 </p>
 <hr>
 
@@ -50,5 +48,6 @@
 
 ## Connect with me:
 <p align="left">
-<a target="_blank" href="https://in.linkedin.com/in/pankajsajekar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+        <a target="_blank" href="https://in.linkedin.com/in/pankajsajekar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+        <a href="https://wa.me/+918108534381" target="_blank" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/></a>        
 </p>
