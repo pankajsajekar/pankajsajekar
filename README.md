@@ -36,12 +36,6 @@
 <hr>
 
 
-<p align="center">
-    <a href="https://github.com/pankajsajekar/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pankaj sajekar streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsajekarr&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
 ## 📊 My Github Stats
 
   <br/>
@@ -56,5 +50,5 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://in.linkedin.com/in/pankajsajekar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a target="_blank" href="https://in.linkedin.com/in/pankajsajekar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
