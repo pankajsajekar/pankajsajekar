@@ -24,6 +24,8 @@
 <p align="left"> 
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v2.png"/></a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/></a>
+    <a href="" target="_blank" ><img src="https://img.icons8.com/nolan/48/api-settings.png"/> </a>
+    <a href="" target="_blank" ><img src="https://img.icons8.com/color/48/null/angularjs.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-html-mobile-app-development-flaticons-lineal-color-flat-icons.png"/></a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/css-filetype.png"/> </a>
@@ -49,5 +51,6 @@
 ## Connect with me:
 <p align="left">
         <a target="_blank" href="https://in.linkedin.com/in/pankajsajekar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-        <a href="https://wa.me/+918108534381" target="_blank" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/></a>        
+        <a href="https://wa.me/+918108534381" target="_blank" ><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/></a>       
+        <a href="https://stackoverflow.com/users/17577614/pankaj-sajekar" target="_blank" ><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"/></a>   
 </p>
