@@ -2,7 +2,7 @@
  <p align="center">
  <img width="100px" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1649398732~exp=1649399332~hmac=4fde30019d78cd8d05460bf1034a36f4a84c923f021b167e56c95d820ed5939d" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pankaj Sajekar</h2>
- <p align="center">I'm a passionate Python/Django Developer from India.</p>
+ <p align="center">I'm a passionate Full-Stack Developer from India.</p>
  <h3 align="center"><hr>To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.<hr></h3>
 </p>
 
